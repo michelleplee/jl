@@ -62,3 +62,9 @@ body{
 #quoteButton{
 	display: inline-block;
 }
+
+#footer {
+ font-size: 10px;
+    text-align:  center;
+        line-height: 15px;
+}
