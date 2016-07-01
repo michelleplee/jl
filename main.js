@@ -29,7 +29,7 @@
 	    	quote:"chinese investors fund new luxury housing for reddings 1%"
 	    },
 	    {
-	    	quote: "impressing oher humans is hard"
+	    	quote: "impressing other humans is hard"
 	    },
 	    {
 	    	quote: "k ill shave my head asap. ive not been feeling my hair for like a year"
