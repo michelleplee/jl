@@ -62,14 +62,3 @@ body{
 	display: inline-block;
 }
 
-
-
-@media (max-width: 320px) {
-
-    #buttonContainer {
-        
-        background-color:black;
-        
-    }
-    
-}
